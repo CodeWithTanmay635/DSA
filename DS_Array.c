@@ -68,7 +68,7 @@ int main(){
     push(&p,1);
     printf("First Linked List");
     print_list(p);
-    //Forgot to Add Second Linked List :|
+    
     push(&q,8);
     push(&q,4);
     push(&q,8);
